@@ -1,0 +1,59 @@
+html {
+    font-size: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+h1 {
+    font-size: 5rem;
+}
+
+input {
+    font-size: 1.5rem;
+    padding: 10px;
+    border-radius: 0.5rem;
+    margin: auto;
+}
+
+form {
+    display: flex;
+    gap: 10px;
+}
+
+ul, li {
+    list-style-type: none;
+}
+
+.todo-list {
+    height: 50%;
+    width: 20%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin: auto;
+    margin-top: 35rem;
+    border-radius: 0.4rem;
+    box-shadow: 2px 2px 2px 2px #DBA4AE;
+}
+
+.cima {
+    background-color: #FFC0CB;
+    width: 100%;
+    padding: 5rem;
+    align-items: center;
+}
+
+.button-addItem {
+    background-color: #BFFFCB;
+    color: #7AAA83;
+}
+
+.corEscrita {
+    color: #804650;
+}
+
+.listaDeElementos {
+    font-size: 1.8rem;
+    background-color: whitesmoke;
+}
